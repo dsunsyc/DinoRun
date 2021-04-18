@@ -3,7 +3,7 @@ A 3D take on the popular browser game. Intended to act as an environment to
 train a deep reinforcement agent to play the game.
 
 Gameplay example:
-![alt text](https://github.com/dsunsyc/DinoRun/blob/master/gameplay.png)
+![alt text](https://github.com/dsunsyc/DinoRun/blob/main/gameplay.png)
 
 ## Installation:
 Follow instructions on Panda3Ds page to install panda3d version 1.10.8 (not 
